@@ -1,0 +1,15 @@
+C:\Users\Andry\Desktop\Курсы по CS\007\bin\Debug\net7.0\007.exe
+C:\Users\Andry\Desktop\Курсы по CS\007\bin\Debug\net7.0\007.deps.json
+C:\Users\Andry\Desktop\Курсы по CS\007\bin\Debug\net7.0\007.runtimeconfig.json
+C:\Users\Andry\Desktop\Курсы по CS\007\bin\Debug\net7.0\007.dll
+C:\Users\Andry\Desktop\Курсы по CS\007\bin\Debug\net7.0\007.pdb
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.csproj.AssemblyReference.cache
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.AssemblyInfoInputs.cache
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.AssemblyInfo.cs
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.csproj.CoreCompileInputs.cache
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.dll
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\refint\007.dll
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.pdb
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\007.genruntimeconfig.cache
+C:\Users\Andry\Desktop\Курсы по CS\007\obj\Debug\net7.0\ref\007.dll

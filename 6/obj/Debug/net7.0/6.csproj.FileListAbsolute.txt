@@ -1,0 +1,15 @@
+C:\Users\Andry\Desktop\Курсы по CS\6\bin\Debug\net7.0\6.exe
+C:\Users\Andry\Desktop\Курсы по CS\6\bin\Debug\net7.0\6.deps.json
+C:\Users\Andry\Desktop\Курсы по CS\6\bin\Debug\net7.0\6.runtimeconfig.json
+C:\Users\Andry\Desktop\Курсы по CS\6\bin\Debug\net7.0\6.dll
+C:\Users\Andry\Desktop\Курсы по CS\6\bin\Debug\net7.0\6.pdb
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.csproj.AssemblyReference.cache
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.AssemblyInfoInputs.cache
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.AssemblyInfo.cs
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.csproj.CoreCompileInputs.cache
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.dll
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\refint\6.dll
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.pdb
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\6.genruntimeconfig.cache
+C:\Users\Andry\Desktop\Курсы по CS\6\obj\Debug\net7.0\ref\6.dll
